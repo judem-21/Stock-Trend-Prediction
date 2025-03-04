@@ -1,2 +1,2 @@
 # Stock-Trend-Prediction
-A storck proce prediction model based on Sequence models
+A set of stock price prediction models based on Sequence modelling
